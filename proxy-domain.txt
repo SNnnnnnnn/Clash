@@ -1,0 +1,12 @@
+payload:
+  - 'api-drive.mypikpak.com'
+  - '+.dropbox.com'
+  - '+.dropboxapi.com'
+  - '+.facebook.com'
+  - '+.google.com'
+  - '+.javdb.com'
+  - '+.openai.com'
+  - '+.signal.com'
+  - '+.twitter.com'
+  - '+.v2ex.com'
+  - '+.youtube.com'
