@@ -1,8 +1,4 @@
 payload:
-  - PROCESS-NAME,aria2
-  - PROCESS-NAME,aria2.exe
-  - PROCESS-NAME,aria2c
-  - PROCESS-NAME,aria2c.exe
   - PROCESS-NAME,BvSsh.exe
   - PROCESS-NAME,CloudflareST.exe
   - PROCESS-NAME,croc
