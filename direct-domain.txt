@@ -542,6 +542,7 @@ payload:
   - '+.51jobcdn.com'
   - '+.acfun.tv'
   - '+.appinn.com'
+  - '+.bytefcdnrd.com'
   - '+.csdn.net'
   - '+.eladmin.vip'
   - '+.freenom.com'
