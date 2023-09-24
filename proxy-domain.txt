@@ -6,7 +6,7 @@ payload:
   - '+.google.com'
   - '+.javdb.com'
   - '+.openai.com'
-  - '+.signal.com'
+  - '+.signal.org'
   - '+.twitter.com'
   - '+.v2ex.com'
   - '+.youtube.com'
