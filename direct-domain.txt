@@ -46,6 +46,7 @@ payload:
   - '+.aliexpress.com'
   - '+.aliimg.com'
   - '+.alikunlun.com'
+  - '+.alipan.com'
   - '+.alipay.com'
   - '+.alipayobjects.com'
   - '+.alisoft.com'
