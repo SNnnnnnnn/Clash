@@ -547,6 +547,7 @@ payload:
   - '+.51jobcdn.com'
   - '+.acfun.tv'
   - '+.appinn.com'
+  - '+.btnull.org'
   - '+.bytefcdnrd.com'
   - '+.cloudcpp.com'
   - '+.cnmcom.com'
