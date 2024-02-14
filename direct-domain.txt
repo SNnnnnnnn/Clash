@@ -568,6 +568,7 @@ payload:
   - '+.urly.cf'
   - '+.videojj.com'
   - '+.xiangdao.me'
+  - '+.xyg688.com'
   - '+.yy.com'
   - '+.zhanqi.tv'
   - '+.zhaopin.com'
