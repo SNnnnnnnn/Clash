@@ -569,6 +569,7 @@ payload:
   - '+.sspai.com'
   - '+.urly.cf'
   - '+.videojj.com'
+  - '+.weserv.nl'
   - '+.xiangdao.me'
   - '+.xyg688.com'
   - '+.yy.com'
