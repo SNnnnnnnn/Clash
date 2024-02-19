@@ -552,6 +552,7 @@ payload:
   - '+.cloudcpp.com'
   - '+.cnmcom.com'
   - '+.csdn.net'
+  - '+.deta.space'
   - '+.eladmin.vip'
   - '+.freenom.com'
   - '+.hupu.com'
