@@ -110,6 +110,10 @@ payload:
 # C-ChinaNet
   - '+.21cn.com'
 
+# D-Deta space
+  - '+.deta.app'
+  - '+.deta.space'
+
 # D-滴滴
   - '+.didialift.com'
   - '+.didiglobal.com'
@@ -552,7 +556,6 @@ payload:
   - '+.cloudcpp.com'
   - '+.cnmcom.com'
   - '+.csdn.net'
-  - '+.deta.space'
   - '+.eladmin.vip'
   - '+.freenom.com'
   - '+.hupu.com'
