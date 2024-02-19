@@ -110,10 +110,6 @@ payload:
 # C-ChinaNet
   - '+.21cn.com'
 
-# D-Deta space
-  - '+.deta.app'
-  - '+.deta.space'
-
 # D-滴滴
   - '+.didialift.com'
   - '+.didiglobal.com'
