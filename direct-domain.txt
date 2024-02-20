@@ -110,6 +110,10 @@ payload:
 # C-ChinaNet
   - '+.21cn.com'
 
+# D-Deta Space
+  - '+.deta.app'
+  - '+.deta.space'
+
 # D-滴滴
   - '+.didialift.com'
   - '+.didiglobal.com'
@@ -126,6 +130,11 @@ payload:
   - '+.douyucdn2.cn'
   - '+.douyutv.com'
   - '+.douyux.com'
+
+# G-Glitch
+  - '+.glitch.com'
+  - '+.glitch.global'
+  - '+.glitch.me'
 
 # H-华为
   - '+.dbankcdn.com'
@@ -201,6 +210,10 @@ payload:
   - '+.meitustat.com'
   - '+.meipai.com'
 
+# N-Netlify
+  - '+.netlify.app'
+  - '+.netlify.com'
+
 # P-拼多多
   - '+.pinduoduo.com'
   - '+.yangkeduo.com'
@@ -208,6 +221,10 @@ payload:
 # P-PPTV、PPLive
   - '+.pplive.com'
   - '+.pptv.com'
+
+# R-Render
+  - '+.onrender.com'
+  - '+.render.com'
 
 # R-人人影视
   - '+.got001.com'
@@ -568,6 +585,7 @@ payload:
   - '+.shayne.tk'
   - '+.sqlpub.com'
   - '+.sspai.com'
+  - '+.surge.sh'
   - '+.urly.cf'
   - '+.videojj.com'
   - '+.weserv.nl'
