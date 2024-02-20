@@ -566,6 +566,7 @@ payload:
   - '+.mypikpak.com'
   - '+.sharepoint.com'
   - '+.shayne.tk'
+  - '+.sqlpub.com'
   - '+.sspai.com'
   - '+.urly.cf'
   - '+.videojj.com'
