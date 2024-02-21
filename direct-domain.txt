@@ -134,7 +134,7 @@ payload:
 # G-Glitch
   - '+.glitch.com'
   - '+.glitch.global'
-  - '+.glitch.me'
+#  - '+.glitch.me'
 
 # H-华为
   - '+.dbankcdn.com'
