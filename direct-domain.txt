@@ -586,7 +586,7 @@ payload:
   - '+.sqlpub.com'
   - '+.sspai.com'
   - '+.surge.sh'
-  - '+.urly.cf'
+  - '+.uptimerobot.com'
   - '+.videojj.com'
   - '+.weserv.nl'
   - '+.xiangdao.me'
