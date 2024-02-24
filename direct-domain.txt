@@ -136,6 +136,9 @@ payload:
   - '+.glitch.global'
 #  - '+.glitch.me'
 
+# G-Goorm
+  - '+.goorm.io'
+
 # H-华为
   - '+.dbankcdn.com'
   - '+.hc-cdn.com'
