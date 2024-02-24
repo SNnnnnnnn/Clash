@@ -569,6 +569,7 @@ payload:
   - '+.cloudcpp.com'
   - '+.cnmcom.com'
   - '+.csdn.net'
+  - '+.cron-job.org'
   - '+.eladmin.vip'
   - '+.freenom.com'
   - '+.hupu.com'
