@@ -226,7 +226,7 @@ payload:
   - '+.pptv.com'
 
 # R-Render
-  - '+.onrender.com'
+#  - '+.onrender.com'
   - '+.render.com'
 
 # R-人人影视
