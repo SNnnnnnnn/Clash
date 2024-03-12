@@ -227,7 +227,7 @@ payload:
 
 # R-Render
 #  - '+.onrender.com'
-  - '+.render.com'
+#  - '+.render.com'
 
 # R-人人影视
   - '+.got001.com'
