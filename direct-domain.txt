@@ -130,6 +130,7 @@ payload:
   - '+.douyucdn2.cn'
   - '+.douyutv.com'
   - '+.douyux.com'
+  - '+.edgesrv.com'
 
 # G-Glitch
   - '+.glitch.com'
@@ -383,6 +384,7 @@ payload:
   - '+.bytedance.net'
   - '+.bytedns.net'
   - '+.bytednsdoc.com'
+  - '+.bytefcdnrd.com'
   - '+.bytegoofy.com'
   - '+.byteimg.com'
   - '+.bytescm.com'
@@ -568,7 +570,6 @@ payload:
   - '+.acfun.tv'
   - '+.appinn.com'
   - '+.btnull.org'
-  - '+.bytefcdnrd.com'
   - '+.cloudcpp.com'
   - '+.cnmcom.com'
   - '+.csdn.net'
