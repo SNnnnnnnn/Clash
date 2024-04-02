@@ -154,6 +154,7 @@ payload:
 
 # H-虎牙
   - '+.huya.com'
+  - '+.yy.com'
 
 # J-京东
   - '+.360buy.com'
@@ -579,15 +580,12 @@ payload:
   - '+.hupu.com'
   - '+.ipip.net'
   - '+.ishayne.com'
-  - '+.ishayne.cf'
-  - '+.ishayne.ml'
-  - '+.ishayne.tk'
   - '+.jiawei.xin'
   - '+.jin10.com'
   - '+.json.icu'
   - '+.mypikpak.com'
+  - '+.semaphore.social'
   - '+.sharepoint.com'
-  - '+.shayne.tk'
   - '+.sqlpub.com'
   - '+.sspai.com'
   - '+.surge.sh'
@@ -596,6 +594,5 @@ payload:
   - '+.weserv.nl'
   - '+.xiangdao.me'
   - '+.xyg688.com'
-  - '+.yy.com'
   - '+.zhanqi.tv'
   - '+.zhaopin.com'
