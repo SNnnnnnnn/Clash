@@ -288,6 +288,9 @@ payload:
   - 'steampowered.com.8686c.com'
   - 'steamstatic.com.8686c.com'
 
+# S-Supabase
+  - '+.supabase.com'
+
 # T-TeamViewer
   - '+.teamviewer.com'
 
