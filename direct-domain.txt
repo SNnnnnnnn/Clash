@@ -587,7 +587,6 @@ payload:
   - '+.jiawei.xin'
   - '+.jin10.com'
   - '+.json.icu'
-  - '+.mypikpak.com'
   - '+.semaphore.social'
   - '+.sharepoint.com'
   - '+.sqlpub.com'
